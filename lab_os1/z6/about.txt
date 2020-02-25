@@ -1,0 +1,4 @@
+1)dobavlenie  fajlov  (esli  v  rezervnom  kataloge  fajla ne  sushchestvuet,  to  on  dobavlyaetsya  iz iskhodnogo, prochie fajly ne zamenyayutsya);  
+2)zameshchenie fajlov (fajly iz iskhodnogo kataloga zameshchayut fajly rezervnogo); 
+3)udalenie fajlov (esli v rezervnom kataloge sushchestvuet fajl, kotorogo net v iskhodnom, to on udalyaetsya); 
+4)spravka po rabote paketnogo fajla.
